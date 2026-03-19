@@ -35,7 +35,7 @@ This project consists of two main parts: a Python backend and a Next.js frontend
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/abdulrahman-riyad/multi-modal-RAG.git
+git clone https://github.com/itsabhishekkr/multimodal
 cd multi-modal-RAG
 ```
 
